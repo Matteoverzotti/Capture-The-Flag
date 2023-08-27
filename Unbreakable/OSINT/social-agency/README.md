@@ -6,12 +6,12 @@ Dear Agent, as your first task within the Agency, find the last known location o
 
 Note: The flag of this code must be generated as such: `CTF{sha256sum('Google Plus Code')}`
 
-## Rezolvare
+## Solution
 
-* În enunțul problemei, primim adresa de e-mail și numele suspectului.
-* Există, de asemenea, ceva legat de Google Hangouts.
-* Am mai văzut astfel de probleme înainte, așa că am folosit pur și simplu `GHunt` pentru a-mi rezolva toate problemele.
-* Am descărcat GHunt de pe GitHub, am setat cookie-urile și apoi am rulat `python3 ghunt.py email tecgirwilliam@gmail.com`.
+* In the problem statement, we get the e-mail address and the name of the suspect.
+* There is also something related to Google Hangouts.
+* I've seen problems like this before, so I simply used `GHunt` to solve all my problems.
+* I downloaded GHunt from GitHub, set the cookies and then ran `python3 ghunt.py email tecgirwilliam@gmail.com`.
 
 ```text
 Name : Tecgir William 
@@ -32,11 +32,11 @@ Google Maps : https://www.google.com/maps/contrib/111076247952673225160/reviews
 Google Calendar : https://calendar.google.com/calendar/u/0/embed?src=tecgirwilliam@gmail.com [-] No public Google Calendar.
 ```
 
-* Vedem că are o recenzie publicată pe contul său de Gmail.
-* După ce vizităm link-ul Google Maps, vedem că a lăsat o recenzie de 5 stele pentru Cascada Lotrisor.
-* Apăsând pe butonul **DETALIILE LOCULUI**, găsim codul Google Plus al locului (`872J+WX Brezoi`).
-* Îl luăm și executăm următorii pași: `echo -n "872J+WX Brezoi" | sha256sum` .
+* We see he has a review posted on his Gmail account.
+* After visiting the Google Maps link, we see that he has left a 5-star review for Lotrisor Waterfall.
+* Clicking on the **PLACE DETAILS** button, we find the Google Plus code of the place (`872J+WX Brezoi`).
+* We take it and perform the following steps: `echo -n "872J+WX Brezoi" | sha256sum` .
 
-După ce am făcut acest lucru, obținem un șir `sha256sum` pe care o înfășurăm în `CTF{}`, și acesta este steagul nostru.
+Having done this, we get a string `sha256sum` which we wrap in `CTF{}`, and this is our flag.
 
 > CTF{e0c34f6ffe1dcc87c67a4fa218b1050da7bb9b9d01871ea7afcb49e55b81257d}

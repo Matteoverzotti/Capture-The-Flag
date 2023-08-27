@@ -10,17 +10,17 @@ Check the attached photo, it might contain some clues.
 
 Flag format: `CTF{SHA256(location)}`
 
-## Rezolvare
+## Solution
 
-Trebuie să găsim un site care să aibă legătură cu 3 și locații, așa că am căutat pe internet până am găsit [https://what3words.com] cu interogarea maps location 3 (după ce am încercat latitudine și longitudine, Google Plus Code etc.).
+We need to find a site that links to 3 and locations, so I searched the internet until I found [https://what3words.com] with the *maps location 3 m^2* query (after trying latitude and longitude, Google Plus Code etc).
 
-* Locația din fotografie este *Casa Capșa*.
-* Din moment ce în descriere se spunea că martorul ocular se afla vizavi, asta înseamnă că se află fie în *Hotel Capitol*, fie în *Old City Gem*.
-* Era lângă o fereastră, așa că am extras toate pătrățelele care păreau a fi lângă una din cele 2 clădiri anterioare
+* The location in the photo is *Casa Capșa*.
+* Since the description said the eyewitness was across the street, that means he is either in the *Capitol Hotel* or the *Old City Gem*.
+* It was next to a window, so I pulled out all the squares that appeared to be next to one of the 2 previous buildings
 
-[Toate Locatiile Posibile](locations.txt)
+[All Possible Locations](locations.txt)
 
-[Apoi am generat toate steagurile posibile](generate.py)
+[Then I generated all possible flags](generate.py)
 
 `python3 generate.py > candidate_flags.txt`
 
