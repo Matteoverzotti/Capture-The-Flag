@@ -1,0 +1,55 @@
+
+     .d8888b.  888    888                   888    
+    d88P  Y88b 888    888                   888    
+    888    888 888    888                   888    
+    888        8888888888 888  888 88888b.  888888 
+    888  88888 888    888 888  888 888 "88b 888    
+    888    888 888    888 888  888 888  888 888    
+    Y88b  d88P 888    888 Y88b 888 888  888 Y88b.  
+     "Y8888P88 888    888  "Y88888 888  888  "Y888 v2
+
+             By: mxrch (🐦 @mxrchreborn)
+       Support my work on GitHub Sponsors ! 💖
+    
+[+] Authenticated !
+
+🙋 Google Account data
+
+Name : Tecgir William
+
+[+] Custom profile picture !
+=> https://lh3.googleusercontent.com/a-/AD_cMMSXh-EZ5hPls2FfDTVjYWpqAHMSPX22mdjesKP5SnE54A
+🎭 [+] Face detected !
+
+[-] Default cover picture
+
+Last profile edit : 2023/03/29 14:34:29 (UTC)
+
+Email : tecgirwilliam@gmail.com
+Gaia ID : 111076247952673225160
+
+User types :
+- GOOGLE_USER (The user is a Google user.)
+
+📞 Google Chat Extended Data
+
+Entity Type : PERSON
+Customer ID : Not found.
+
+🌐 Google Plus Extended Data
+
+Entreprise User : False
+
+🎮 Play Games data
+
+[-] No player profile found.
+
+🗺️ Maps data
+
+Profile page : https://www.google.com/maps/contrib/111076247952673225160/reviews
+
+[-] No review.
+
+🗓️ Calendar data
+
+[-] No public Google Calendar.
