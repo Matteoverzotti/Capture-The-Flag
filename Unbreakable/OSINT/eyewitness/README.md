@@ -12,7 +12,7 @@ Flag format: `CTF{SHA256(location)}`
 
 ## Solution
 
-We need to find a site that links to 3 and locations, so I searched the internet until I found [https://what3words.com] with the *maps location 3 m^2* query (after trying latitude and longitude, Google Plus Code etc).
+We need to find a site that links to 3 and locations, so I searched the internet until I found <https://what3words.com> with the *maps location 3 m^2* query (after trying latitude and longitude, Google Plus Code etc).
 
 * The location in the photo is *Casa Capșa*.
 * Since the description said the eyewitness was across the street, that means he is either in the *Capitol Hotel* or the *Old City Gem*.

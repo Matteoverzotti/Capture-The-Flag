@@ -25,12 +25,12 @@ https://www.google.com/maps/place/37%C2%B046%2756.4%22N+122%C2%B023%2728.0%2
 
 The description found, along with the hint: *"The Hub is not the only product of that one company that could be searched for."* led me to `gist.github.com`.
 
-Searching by camera model, I found the following clue: [https://gist.github.com/NitescuLucian/3b727d6719f84f23fc6e67bee5ae5824]
+Searching by camera model, I found the following clue: <https://gist.github.com/NitescuLucian/3b727d6719f84f23fc6e67bee5ae5824>
 
 * Looking at Revisions, I saw a text with strange characters.
 * Holloway's website in New Zealand is `holloway.nz`.
 
-Searching for him on Twitter, I found several references to: [https://holloway.nz/steg/].
+Searching for him on Twitter, I found several references to: <https://holloway.nz/steg/>.
 Using this app, I decoded the strange message on Github and got the flag.
 
 > ctf{dd199cac14352639e7e5a2415131d6f09411e5b24840b9976d1c1bfaf20f9ca1}
