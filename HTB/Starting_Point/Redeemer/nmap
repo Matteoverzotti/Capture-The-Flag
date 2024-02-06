@@ -1,0 +1,1 @@
+# Nmap 7.94SVN scan initiated Tue Feb  6 23:28:26 2024 as: nmap -top-ports 2500 -sV -oN nmap 10.129.192.8
